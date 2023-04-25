@@ -2,11 +2,15 @@
 	padding: 0px;
 	margin: 0px;
 }
-.começo {
-	position: absolute;
-	height: 200px;
+.root {
+	--cor-fundo:#FFBB99;
+	--cor-texto:#000000;
+}
+
+.header {
 	width: 1623px;
-	left: 0px;
+	height: 200px;
 	top: -27px;
-	background: linear-gradient(180deg, #FFC47F 0%, rgba(232, 199, 181, 0) 100%);
+	position: absolute;
+	background: linear-gradient(100% #FFC47F #E8C7B5);
 }
