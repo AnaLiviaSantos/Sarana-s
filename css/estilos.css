@@ -1,0 +1,12 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.começo {
+	position: absolute;
+	height: 200px;
+	width: 1623px;
+	left: 0px;
+	top: -27px;
+	background: linear-gradient(180deg, #FFC47F 0%, rgba(232, 199, 181, 0) 100%);
+}
