@@ -5,6 +5,7 @@
 :root {
 	--cor-fundo:#FFBB99;
 	--cor-texto:#000000;
+	--cor-fundo2:#F8E7D3;
 }
 
 header {
@@ -24,14 +25,29 @@ header {
 #inicio {
 	background-color: var(--cor-fundo);
 	width: 1623px;
-	height: 70px;
+	height: 55px;
 	padding-top:10px;
 }
 
 .imagem {
 	position: absolute;
 	width: 1623px;
-	height: 876px;
+	height: 800px;
 	left: 0px;
 	top: 196px;
+	margin: 20px 0px 0px 0px;
+}
+
+#fundo {
+	background-color: var(--cor-fundo2);
+	width: 1623px;
+	height: 1049px;
+
+}
+
+.Escrita {
+	text-align: center;
+	font-family: 'Inter';
+	font-size: 22px;
+	margin: 10px 0px 0px 0px;
 }
