@@ -5,7 +5,8 @@
 :root {
 	--cor-fundo:#FFBB99;
 	--cor-texto:#000000;
-	--cor-fundo2:#F8E7D3;
+	--cor-fundo2:#FFFFF;
+	--cor-rodapé:#F8D3A8;
 }
 
 header {
@@ -64,19 +65,27 @@ header {
 	margin: -430px 0px 0px -30px;
 }
 
-.imagem2 {
-	margin: 30px 0px 0px -1150px;
+.imagem1 {
+	margin-top: 200px;
+	padding: 20px 50px;
+	width: 400px;
+	height: 100px;
+	margin-right: auto;
+	width: 1440px;
+	text-align: center;
+	margin: 70px 50px;
 }
 
-.imagem3{
-	margin: -1310px 0px 0px 1150px;
-}
 
 .imagem6 {
-	margin: -1290px 0px 0px 1050px;
+
+
 }
 
 .footer {
-	margin-top: 50px;
+	margin-top: 2500px;
 	font-family: 'Ysabeau ExtraLight 200 Itálico';
+	text-align: center;
+	background-color: var(--cor-rodapé);
+	width: 1623px;
 }
