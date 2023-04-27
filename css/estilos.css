@@ -65,14 +65,18 @@ header {
 }
 
 .imagem2 {
-	margin: 70px 0px 0px -1150px;
+	margin: 30px 0px 0px -1150px;
 }
 
 .imagem3{
-	margin: -880px 0px 0px 1150px;
+	margin: -1310px 0px 0px 1150px;
 }
 
 .imagem6 {
-	margin: -1350px 0px 0px 1050px;
+	margin: -1290px 0px 0px 1050px;
 }
 
+.footer {
+	margin-top: 50px;
+	font-family: 'Ysabeau ExtraLight 200 Itálico';
+}
